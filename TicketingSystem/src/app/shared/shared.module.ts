@@ -6,10 +6,12 @@ import { RouterModule } from '@angular/router';
 
 
 
+
 @NgModule({
   declarations: [
     ColumnOneComponent,
-    HeaderComponent
+    HeaderComponent,
+    
   ],
   imports: [
     CommonModule,
